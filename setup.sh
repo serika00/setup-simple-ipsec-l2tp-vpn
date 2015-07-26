@@ -399,7 +399,7 @@ echo "============================================================"
 
 echo "Note:"
 echo "* Before connecting with a Windows client, please see: http://support.microsoft.com/kb/926179"
-echo "* Ports 1701, 500 and 4500 must be opened for the VPN to work!"
+echo "* Ports(UDP) 1701, 500 and 4500 must be opened for the VPN to work!"
 echo "* If you plan to keep the VPN server generated with this script on the internet for a long time (a day or more), consider securing it to possible attacks!"
 
 sleep 1
